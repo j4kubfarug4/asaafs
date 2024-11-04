@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul id="list">
+        <li>EL1</li>
+        <li>EL2</li>
+        <li>EL3</li>
+        <li>EL4</li>
+        <li>EL5</li>
+        <li>EL6</li>
+        <li>EL7</li>
+        <li>EL8</li>
+        <li>EL9</li>
+        <li>EL10</li>
+    </ul>
+    <button onclick="" id="add"></button>
+    <script>
+        function addItem() {
+            document.getElementById("add").addEventListener("click", function(){
+                let newElement = document.createElement("li")
+                nowyElement.textContent = "EL"
+                document.getElementById("list").appendChild(nowyElement)
+            })
+        }
+    </script>
+</body>
+</html>

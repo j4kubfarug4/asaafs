@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Programista\\Documents\\JakubF\\waliczek-24-25\\281024\\Zad3-Kompozycja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA00AB6-B6FE-497A-BC61-D78DC92222CD}|Zad3-Kompozycja.vcxproj|C:\\Users\\Programista\\Documents\\JakubF\\waliczek-24-25\\281024\\Zad3-Kompozycja\\Zad3-Kompozycja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CA00AB6-B6FE-497A-BC61-D78DC92222CD}|Zad3-Kompozycja.vcxproj|solutionrelative:Zad3-Kompozycja.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zad3-Kompozycja.cpp",
+              "DocumentMoniker": "C:\\Users\\Programista\\Documents\\JakubF\\waliczek-24-25\\281024\\Zad3-Kompozycja\\Zad3-Kompozycja.cpp",
+              "RelativeDocumentMoniker": "Zad3-Kompozycja.cpp",
+              "ToolTip": "C:\\Users\\Programista\\Documents\\JakubF\\waliczek-24-25\\281024\\Zad3-Kompozycja\\Zad3-Kompozycja.cpp",
+              "RelativeToolTip": "Zad3-Kompozycja.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T07:17:09.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

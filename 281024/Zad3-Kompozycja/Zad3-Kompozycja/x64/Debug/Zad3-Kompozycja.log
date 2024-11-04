@@ -1,0 +1,4 @@
+﻿  Zad3-Kompozycja.cpp
+C:\Users\Programista\Documents\JakubF\waliczek-24-25\281024\Zad3-Kompozycja\Zad3-Kompozycja.cpp(12,16): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Programista\Documents\JakubF\waliczek-24-25\281024\Zad3-Kompozycja\Zad3-Kompozycja.cpp(33,16): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Zad3-Kompozycja.vcxproj -> C:\Users\Programista\Documents\JakubF\waliczek-24-25\281024\Zad3-Kompozycja\x64\Debug\Zad3-Kompozycja.exe

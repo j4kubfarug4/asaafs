@@ -1,0 +1,8 @@
+Zadanie2
+Napisz klase adres ktora przechpowuej adres np miasto ulica numer domu oraz klase person ktora przechowuje imie nazwisko oraz posiada jako czlonek obiekt klasy adres. Zaimplementuj metody do wyswietlania pelnych danych osoby
+
+Zadanie3
+Napisz klase engine ktora przechowuje informacje o pojemnosci silnika i jego mocy. Nastepnie utworz klase car ktora ma jako pole obiekt klasy engine. Zaimolementuj metode ktora wyswietla informacje o samochodzie
+
+Zadanie4
+Stworz klase autor ktora przechowuje imie i nazwisko autora. Nastepnie zbuduj klase book ktora ma tytul ksiazki i jako pole instancje klasy autor. Dodaj metode do wyswietlania informacji o ksiazce wraz z jej autorem
